@@ -1,4 +1,4 @@
-local input = './input/day01'
+local input = '../input/day01'
 
 local function findFirst(line)
   for i = 1, #line do

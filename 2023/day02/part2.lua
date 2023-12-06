@@ -1,5 +1,5 @@
 local io = require 'io'
-local input = './input/day02'
+local input = '../input/day02'
 
 local function split_cube(cube)
   local result = {}

@@ -1,6 +1,6 @@
 local math = require 'math'
 local io = require 'io'
-local input = './input/day01'
+local input = '../input/day01'
 local validDigits = {
   "one",
   "two",

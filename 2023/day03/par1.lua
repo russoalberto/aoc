@@ -1,5 +1,5 @@
 local io = require 'io'
-local input = './input/day03'
+local input = '../input/day03'
 
 local function is_valid_number(adjacents, start, finish)
   for pos = 1, #adjacents do
